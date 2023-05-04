@@ -11,3 +11,10 @@ Example:
 1. Show attached IPs
 mandatory
 Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+2. Port listening on localhost
+#advanced
+Write a Bash script that listens on port 98 on localhost.
+
+Terminal 0
+
+Starting my script.
